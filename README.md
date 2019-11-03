@@ -2,6 +2,7 @@
 
 ## datasets
 Brats18, using 2D axial slices of T2 modality
+
 ![](https://github.com/hellopipu/Brain_generate/raw/master/src/real.png) 
 ## DCGAN
 #### Framework
